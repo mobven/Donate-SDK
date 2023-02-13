@@ -91,6 +91,15 @@
         "infra",
         "mentoring"
       ]
+    },
+    {
+      "login": "furkankantar",
+      "name": "furkankantar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112637951?v=4",
+      "profile": "https://github.com/furkankantar",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
