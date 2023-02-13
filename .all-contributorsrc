@@ -67,6 +67,18 @@
         "ideas",
         "translation"
       ]
+    },
+    {
+      "login": "abalta-mobven",
+      "name": "Abdullah Balta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34233372?v=4",
+      "profile": "https://github.com/abalta-mobven",
+      "contributions": [
+        "code",
+        "doc",
+        "infra",
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7,
