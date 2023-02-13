@@ -79,6 +79,18 @@
         "infra",
         "mentoring"
       ]
+    },
+    {
+      "login": "srnerturk",
+      "name": "Serhan Ertürk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19576688?v=4",
+      "profile": "https://github.com/srnerturk",
+      "contributions": [
+        "code",
+        "doc",
+        "infra",
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7,

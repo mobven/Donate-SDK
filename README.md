@@ -1,6 +1,6 @@
 Available in [iOS](https://github.com/mobven/iDonateAlert) | [Android](https://github.com/mobven/AndroQuake-SDK) | [Web](https://github.com/mobven/donate.js)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Donate-SDK
@@ -66,6 +66,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ardakazanci-mobven"><img src="https://avatars.githubusercontent.com/u/79072506?v=4?s=100" width="100px;" alt="Arda Kazancı"/><br /><sub><b>Arda Kazancı</b></sub></a><br /><a href="https://github.com/mobven/Donate-SDK/commits?author=ardakazanci-mobven" title="Code">💻</a> <a href="https://github.com/mobven/Donate-SDK/commits?author=ardakazanci-mobven" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/bariscan-mobven"><img src="https://avatars.githubusercontent.com/u/125072849?v=4?s=100" width="100px;" alt="bariscan-mobven"/><br /><sub><b>bariscan-mobven</b></sub></a><br /><a href="#content-bariscan-mobven" title="Content">🖋</a> <a href="#eventOrganizing-bariscan-mobven" title="Event Organizing">📋</a> <a href="#ideas-bariscan-mobven" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-bariscan-mobven" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/abalta-mobven"><img src="https://avatars.githubusercontent.com/u/34233372?v=4?s=100" width="100px;" alt="Abdullah Balta"/><br /><sub><b>Abdullah Balta</b></sub></a><br /><a href="https://github.com/mobven/Donate-SDK/commits?author=abalta-mobven" title="Code">💻</a> <a href="https://github.com/mobven/Donate-SDK/commits?author=abalta-mobven" title="Documentation">📖</a> <a href="#infra-abalta-mobven" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#mentoring-abalta-mobven" title="Mentoring">🧑‍🏫</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/srnerturk"><img src="https://avatars.githubusercontent.com/u/19576688?v=4?s=100" width="100px;" alt="Serhan Ertürk"/><br /><sub><b>Serhan Ertürk</b></sub></a><br /><a href="https://github.com/mobven/Donate-SDK/commits?author=srnerturk" title="Code">💻</a> <a href="https://github.com/mobven/Donate-SDK/commits?author=srnerturk" title="Documentation">📖</a> <a href="#infra-srnerturk" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#mentoring-srnerturk" title="Mentoring">🧑‍🏫</a></td>
     </tr>
   </tbody>
 </table>
