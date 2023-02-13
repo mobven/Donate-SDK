@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Rashidium",
+      "name": "Rashid Ramazanov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11058743?v=4",
+      "profile": "https://github.com/Rashidium",
+      "contributions": [
+        "code",
+        "doc",
+        "infra",
+        "mentoring"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Donate-SDK",
+  "projectOwner": "mobven"
+}
