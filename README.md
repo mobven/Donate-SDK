@@ -1,6 +1,6 @@
 Available in [iOS](https://github.com/mobven/iDonateAlert) | [Android](https://github.com/mobven/AndroQuake-SDK) | [Web](https://github.com/mobven/donate.js)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Donate-SDK
@@ -63,6 +63,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/furkan-erucar/"><img src="https://avatars.githubusercontent.com/u/97690923?v=4?s=100" width="100px;" alt="Furkan Erucar"/><br /><sub><b>Furkan Erucar</b></sub></a><br /><a href="https://github.com/mobven/Donate-SDK/commits?author=Pessevmeyen" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/NOTB4D"><img src="https://avatars.githubusercontent.com/u/75912206?v=4?s=100" width="100px;" alt="Eser Kucuker"/><br /><sub><b>Eser Kucuker</b></sub></a><br /><a href="https://github.com/mobven/Donate-SDK/commits?author=NOTB4D" title="Code">💻</a> <a href="https://github.com/mobven/Donate-SDK/commits?author=NOTB4D" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/samet-ogutcuoglu"><img src="https://avatars.githubusercontent.com/u/108695720?v=4?s=100" width="100px;" alt="Samet Ögütcüoğlu"/><br /><sub><b>Samet Ögütcüoğlu</b></sub></a><br /><a href="https://github.com/mobven/Donate-SDK/commits?author=samet-ogutcuoglu" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ardakazanci-mobven"><img src="https://avatars.githubusercontent.com/u/79072506?v=4?s=100" width="100px;" alt="Arda Kazancı"/><br /><sub><b>Arda Kazancı</b></sub></a><br /><a href="https://github.com/mobven/Donate-SDK/commits?author=ardakazanci-mobven" title="Code">💻</a> <a href="https://github.com/mobven/Donate-SDK/commits?author=ardakazanci-mobven" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
