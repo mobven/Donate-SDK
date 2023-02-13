@@ -1,6 +1,6 @@
 Available in [iOS](https://github.com/mobven/iDonateAlert) | [Android](https://github.com/mobven/AndroQuake-SDK) | [Web](https://github.com/mobven/donate.js)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Donate-SDK
@@ -69,6 +69,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/srnerturk"><img src="https://avatars.githubusercontent.com/u/19576688?v=4?s=100" width="100px;" alt="Serhan Ertürk"/><br /><sub><b>Serhan Ertürk</b></sub></a><br /><a href="https://github.com/mobven/Donate-SDK/commits?author=srnerturk" title="Code">💻</a> <a href="https://github.com/mobven/Donate-SDK/commits?author=srnerturk" title="Documentation">📖</a> <a href="#infra-srnerturk" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#mentoring-srnerturk" title="Mentoring">🧑‍🏫</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/github-username"><img src="https://avatars.githubusercontent.com/u/17126888?v=4?s=100" width="100px;" alt="GITHUB-USERNAME"/><br /><sub><b>GITHUB-USERNAME</b></sub></a><br /><a href="https://github.com/mobven/Donate-SDK/commits?author=GITHUB-USERNAME" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
