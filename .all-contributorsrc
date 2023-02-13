@@ -26,6 +26,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "NOTB4D",
+      "name": "Eser Kucuker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75912206?v=4",
+      "profile": "https://github.com/NOTB4D",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
