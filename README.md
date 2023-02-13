@@ -1,4 +1,7 @@
 Available in [iOS](https://github.com/mobven/iDonateAlert) | [Android](https://github.com/mobven/AndroQuake-SDK) | [Web](https://github.com/mobven/donate.js)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Donate-SDK
 
@@ -45,3 +48,25 @@ Our SDK is a versatile tool that allows developers to quickly and easily integra
 For iOS, Android and Web, the SDK includes native libraries that can be easily imported into an app project. These libraries provide access to the donation list components allowing developers to add and customize the list as needed. The SDK also includes documentation and sample code to help developers get started.
 
 Click to learn more and implement into your solution via [iOS](https://github.com/mobven/iDonateAlert) | [Android](https://github.com/mobven/AndroQuake-SDK) | [Web](https://github.com/mobven/donate.js)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rashidium"><img src="https://avatars.githubusercontent.com/u/11058743?v=4?s=100" width="100px;" alt="Rashid Ramazanov"/><br /><sub><b>Rashid Ramazanov</b></sub></a><br /><a href="https://github.com/mobven/Donate-SDK/commits?author=Rashidium" title="Code">💻</a> <a href="https://github.com/mobven/Donate-SDK/commits?author=Rashidium" title="Documentation">📖</a> <a href="#infra-Rashidium" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#mentoring-Rashidium" title="Mentoring">🧑‍🏫</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
