@@ -45,6 +45,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ardakazanci-mobven",
+      "name": "Arda Kazancı",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79072506?v=4",
+      "profile": "https://github.com/ardakazanci-mobven",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
