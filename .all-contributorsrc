@@ -55,6 +55,18 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "bariscan-mobven",
+      "name": "bariscan-mobven",
+      "avatar_url": "https://avatars.githubusercontent.com/u/125072849?v=4",
+      "profile": "https://github.com/bariscan-mobven",
+      "contributions": [
+        "content",
+        "eventOrganizing",
+        "ideas",
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
